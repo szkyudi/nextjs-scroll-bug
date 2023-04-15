@@ -1,0 +1,13 @@
+.header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 100px;
+  background: #d0d;
+}
+.box {
+  height: 200px;
+  background: #dd0;
+  margin-bottom: 16px;
+}
