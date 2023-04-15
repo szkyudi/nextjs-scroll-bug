@@ -8,8 +8,8 @@ const inter = Inter({ subsets: ['latin'] })
 export default function Home() {
   return (
     <>
-      <header className={styles.header}>header</header>
       <div>
+        <header className={styles.header}>header</header>
         <div className={styles.box}>1</div>
         <div className={styles.box}>2</div>
         <div className={styles.box}>3</div>
